@@ -65,6 +65,7 @@ Tipo de renderizado: SSG
 * La información del Autor en Sanity debe ser reutilizable. Es decir que si yo creo un documento con la información de uno o más autores, a la hora de escribir cada artículo yo debería poder elegir uno ya existente o tener la posibilidad de crear uno nuevo.
 * Para efectos del FAQ, este también debe venir de Sanity. Pueden pensar en crear un nuevo tipo de documento y asumir que el editor de contenido siempre mantendrá únicamente un documento de FAQ (A pesar de que el editor pueda crear varios documentos de este tipo)
 
+
 ## Solución de dudas:
 
 * Yo Cristian Múnera, solo responderé preguntas respecto a la prueba con respuestas de SI y NO. También a preguntas respecto a la implementación técnica
@@ -73,3 +74,11 @@ Tipo de renderizado: SSG
 
 ## Tiempo máximo de entrega de la solución
 Se reciben soluciones hasta el Jueves 20 de Junio 2024 a las 11:00 AM hora de Colombia
+
+## Sistema de evaluación
+
+Al vuelo estilo Hogwarts! Al momento de la evaluación darémos los puntos de modo random como hacía Dumbledore con Harry pero sin rosca, es decir, si dimos 50 puntos por algo, ese mismo puntaje lo evaluaremos con el otro.
+
+Así mismo, los evaluadores de una solución seran el contrincante y también yo.
+
+En caso de que estemos evaluando a Juan y Cristian diga que miremos como está por ejemplo el responsive del sitio, eso mismo será evaluado también en la solución de Cristian, independientemente de que ya lo hayamos evaluado.
